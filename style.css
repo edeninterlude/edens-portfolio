@@ -412,7 +412,7 @@ select, textarea {
     height: auto;
     float: left;
     margin: 0 35px 15px 0;
-    shape-outside: url("images/edenshapepfp.png");
+    shape-outside: url("edenshapepfp.png");
     shape-image-threshold: 0.1;
     shape-margin: 35px;
 }
